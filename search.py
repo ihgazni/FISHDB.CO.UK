@@ -115,7 +115,7 @@ else:
     rslt = rslt.strip('\n')
     rslt = rslt.split('\n')
     fns = file_name_condition_str(condition_str)
-    exact_dir = './SHOWED/' + fns[:10] +  '__' + md5(condition_str)+'/'
+    exact_dir = './SHOWED/' + fns[:10] +  '__' + md5(condition_str)[:8]+'/'
     if(os.path.exists(exact_dir)):
         pass
     else:
