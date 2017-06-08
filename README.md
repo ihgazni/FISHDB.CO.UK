@@ -49,4 +49,7 @@ this is a search helper for website http://www.fishdb.co.uk
 4. selected photos:  
 -------------------
 
+![](DETAILEDREADME/readme_1.png) 
+![](DETAILEDREADME/readme_2.png) 
+![](DETAILEDREADME/readme_3.png) 
 
